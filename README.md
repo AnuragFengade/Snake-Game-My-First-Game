@@ -56,9 +56,7 @@ snake-game-java/
 │── Snake.java
 │── Food.java
 │── README.md
-📸 Screenshots
-
-Add screenshots of your game here (optional but recommended)
+ 
 
 💡 Concepts Covered
 Object-Oriented Programming (OOP)
@@ -66,6 +64,7 @@ Game Loop Logic
 Event Handling
 GUI Development
 Collision Detection Algorithms
+
 🔮 Future Enhancements
 Add sound effects 🎵
 Multiple difficulty levels
