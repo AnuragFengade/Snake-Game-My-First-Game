@@ -48,6 +48,7 @@ Eat the food to grow longer and increase your score
 Avoid hitting:
 The walls
 Your own body
+
 📂 Project Structure
 snake-game-java/
 │── SnakeGame.java
