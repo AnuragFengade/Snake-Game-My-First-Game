@@ -14,6 +14,7 @@ Simple and clean GUI using Java Swing
 Java
 Java Swing (for GUI)
 AWT (for graphics & event handling)
+
 🚀 Getting Started
 Prerequisites
 Java JDK 8 or higher
