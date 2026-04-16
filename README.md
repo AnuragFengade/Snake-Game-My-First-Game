@@ -37,6 +37,7 @@ javac SnakeGame.java
 Run the game:
 
 java SnakeGame
+
 🎯 How to Play
 Use arrow keys to control the snake:
 ⬆️ Up
