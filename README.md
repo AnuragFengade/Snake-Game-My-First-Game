@@ -19,7 +19,8 @@ AWT (for graphics & event handling)
 Prerequisites
 Java JDK 8 or higher
 Any IDE (IntelliJ, Eclipse, VS Code)
-Installation
+
+Installatio
 
 Clone the repository:
 
