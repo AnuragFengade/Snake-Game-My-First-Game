@@ -80,6 +80,7 @@ High score saving system
 
 Improved UI/UX design
 
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
@@ -87,3 +88,14 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 📄 License
 
 This project is open-source and available under the MIT License.
+
+
+👨‍💻 Author
+
+ Anurag Ganesh Fengade 
+
+ 💻 GitHub
+
+🔗 LinkedIn
+
+
