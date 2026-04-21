@@ -71,10 +71,15 @@ GUI Development
 Collision Detection Algorithms
 
 🔮 Future Enhancements
+
 Add sound effects 🎵
+
 Multiple difficulty levels
+
 High score saving system
+
 Improved UI/UX design
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
