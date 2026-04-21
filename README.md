@@ -10,10 +10,15 @@ Collision detection (walls & self)
 Game over and restart functionality
 Simple and clean GUI using Java Swing
 
+
 🛠️ Technologies Used
+
 Java
+
 Java Swing (for GUI)
+
 AWT (for graphics & event handling)
+
 
 🚀 Getting Started
 Prerequisites
